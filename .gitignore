@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 /data/output/*
 /.idea/.gitignore
-/.idea/CovidContagion.iml
+/.idea/CovidGridContagion.iml
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/inspectionProfiles/profiles_settings.xml
