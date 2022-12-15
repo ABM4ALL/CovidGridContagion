@@ -12,7 +12,7 @@ if TYPE_CHECKING:
 
 class CovidAgent(GridAgent):
     scenario: "CovidScenario"
-    grid: "CovidGrid"
+    grid: "CovidGrid[CovidSpot]"
     spot: "CovidSpot"
 
     def set_category(self):
